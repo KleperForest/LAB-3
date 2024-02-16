@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\Debug\PosLAB3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PosLAB3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PosLAB3.map</FILE>
+  <FILE>PosLAB3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>25</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>161</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OVF><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>212</LINE></ISR_TIMER0_OVF>
+  <SETUP><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>34</LINE></SETUP>
+  <TABLA><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>72</LINE></TABLA>
+  <Inttemer0><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>145</LINE></Inttemer0>
+  <LOOP><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>76</LINE></LOOP>
+  <tIMEREST><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>128</LINE></tIMEREST>
+  <UNI><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>133</LINE></UNI>
+  <retar><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>108</LINE></retar>
+  <DECI><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>138</LINE></DECI>
+  <delay><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>110</LINE></delay>
+  <delay1><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>114</LINE></delay1>
+  <delay2><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>118</LINE></delay2>
+  <delay3><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>122</LINE></delay3>
+  <CPD2><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>175</LINE></CPD2>
+  <EXIT><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>182</LINE></EXIT>
+  <res1><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>197</LINE></res1>
+  <res2><FILE>C:\Users\samue\OneDrive - UVG\Writers ciclo 5\Programación De Microcontroladores\Labs\3\PosLAB3\PosLAB3\main.asm</FILE><LINE>202</LINE></res2>
+ </LABELS>
+</ASSEMBLER_INFO>
